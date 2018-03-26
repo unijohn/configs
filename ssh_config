@@ -1,3 +1,7 @@
 Host github.com
-    User unijohn
+    User git
     IdentityFile ~/.ssh/github_id_rsa
+
+Host gitlab.com
+    User git
+    IdentityFile ~/.ssh/gitlab_id_rsa
